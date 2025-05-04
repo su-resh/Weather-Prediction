@@ -1,0 +1,7 @@
+streamlit==1.44.1
+pandas==2.2.3
+geopandas==1.0.1
+scikit-learn==1.6.1
+seaborn==0.13.2
+plotly==6.0.1
+geoplot==0.5.1
