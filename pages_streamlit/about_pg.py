@@ -52,11 +52,11 @@ To build a machine learning-based pipeline that:
 | 
 |-- requirements.txt        # Project dependencies
 |-- README.md
-|-- .gitignore
+|-- .gitignore  
 
 
 ## 👥 Contributor(s)
-- Krishna Prasad Phelu
+- Suresh Subedi
 - Omdena's & NIC Capacity Building Batchll - Nepal instructors
 
 ## 📌 Disclaimer
